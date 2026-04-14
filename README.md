@@ -1,1 +1,1 @@
-Trabajo práctico de Minería de Datos realizado en Google Colab.
+Trabajos prácticos de Minería de Datos realizado en las semanas.
